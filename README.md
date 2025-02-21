@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asid0131
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate with helps to succed
 - 📫 How to reach me siddiquiali0930@gmail.com
 
